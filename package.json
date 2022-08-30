@@ -1,24 +1,22 @@
 {
-  "name": "resume",
+  "name": "test",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.html",
+  "description": "some initial test, not the real cv",
+  "main": "index.js",
   "scripts": {
-    "start": "serve",
-    "build": "echo This is a static template, there is no bundler or bundling involved!"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/codesandbox-app/static-template.git"
+    "url": "git+https://github.com/airin79/my-cv.git"
   },
-  "keywords": [],
-  "author": "Ives van Hoorne",
-  "license": "MIT",
+  "author": "Airin",
+  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/codesandbox-app/static-template/issues"
+    "url": "https://github.com/airin79/my-cv/issues"
   },
-  "homepage": "https://github.com/codesandbox-app/static-template#readme",
-  "devDependencies": {
-    "serve": "^11.2.0"
+  "homepage": "https://github.com/airin79/my-cv#readme",
+  "dependencies": {
+    "start": "^5.1.0"
   }
 }
